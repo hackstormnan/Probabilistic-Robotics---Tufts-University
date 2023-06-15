@@ -1,3 +1,7 @@
+Train an agent using Q-learning to navigate and avoid obstacles in a Minecraft environment.
+
+
+
 To use Q-learning algorithm to train an agent to traverse and navigate in Minecraft, there are several prerequisites and tools needed. First, the user needs to have a Minecraft account and download Minecraft version 1.15.2. Additionally, the user needs to start the Minecraft server using the following commands:
 
 Navigate to the directory containing the Minecraft Spigot server files: cd minecraft_spigot-1.15.2
