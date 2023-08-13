@@ -1,0 +1,7 @@
+I undertook the challenge of delving into the intricacies of the Kalman filter algorithm to support a balloon drone grappling with operational intricacies. Throughout this endeavor, I diligently immersed myself in predicting and refining the drone's trajectory, considering complex variables like wind fluctuations and measurement noise.
+
+My exploration led me to define essential state vectors, design transition probabilities, and skillfully execute state prediction steps. With careful consideration, I seamlessly incorporated GPS sensor measurements, accounting for Gaussian noise and enhancing state estimates. I navigated uncertainties adeptly, calculating expected errors stemming from potential sensor failures.
+
+The inclusion of motor commands for movement prompted a revisit to earlier tasks, adapting them to encompass acceleration and wind influences. My project's culmination featured a comprehensive 2-D scenario analysis, highlighted by the visual representation of true versus estimated positions.
+
+Within the attached PDF, you'll find my comprehensive responses, meticulous code implementations, and a helpful README guide. This achievement underscores my prowess in intricate algorithms, astute problem-solving, and adaptable programming proficiency.
